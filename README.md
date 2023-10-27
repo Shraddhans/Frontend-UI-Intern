@@ -1,7 +1,3 @@
-# [DensityExchange-reactJS](https://density-exchange-react-js.vercel.app/)
-
-## Demo
-https://github.com/SubodhSingh8543/DensityExchange-reactJS/assets/112638063/59a745ff-4a3d-4493-bff2-1e4e09d524b9
 
 ## Introduction
 
@@ -20,15 +16,7 @@ https://github.com/SubodhSingh8543/DensityExchange-reactJS/assets/112638063/59a7
 - [Chakra UI](https://chakra-ui.com/)
 - [Framer Motion](https://www.framer.com/motion/)
 
-## Getting Started
 
-Follow these steps to get the project up and running on your local machine:
-
-1. Clone this repository: `git clone https://github.com/Namrata0407/Density-Exchange-Reactjs.git`
-2. Navigate to the project directory: `cd Density-Exchange-Reactjs`
-3. Install dependencies: `npm install`
-4. Start the development server: `npm run dev`
-5. Open your browser and visit: `http://localhost:3000`
 
 ## Usage
 
